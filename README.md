@@ -55,7 +55,7 @@ image = "AB4B1B4CB1634F04865F0A41F1D4ACBC.jpg"
 output = poe.chat(text, image=image, clean=True)
 print(output)
 ```
-<img src="AB4B1B4CB1634F04865F0A41F1D4ACBC.jpg" width="480" height="339">
+<img src="AB4B1B4CB1634F04865F0A41F1D4ACBC.jpg" width="480" height="330">
 
 **输出**
 ```
